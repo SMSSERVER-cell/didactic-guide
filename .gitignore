@@ -1,0 +1,15 @@
+node_modules/
+npm-debug.log*
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data: real shop numbers, SIDs, customer phone numbers. Never commit.
+# This repo is public. Use clients.example.json for shape only.
+clients.json
+clients.demo.json
+appointments.json
+Appointments.json

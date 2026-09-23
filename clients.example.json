@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "clients": [
+    {
+      "id": "acme-plumbing",
+      "status": "live",
+      "plan": "keep",
+      "clientName": "Acme Plumbing",
+      "legalName": "Acme Plumbing LLC",
+      "forwardTo": "+15550100001",
+      "ownerMobile": "+15550100002",
+      "areaCode": "555",
+      "twilio_number": "+15550100003",
+      "messagingServiceSid": "MG00000000000000000000000000000000",
+      "message": "Acme Plumbing: Sorry we missed your call. We'll call you back shortly. Msg & data rates may apply. Reply STOP to opt out, HELP for help.",
+      "sheetId": "1AbCdEfGhIjKlMnOpQrStUvWxYz"
+    },
+    {
+      "id": "bella-salon",
+      "status": "draft",
+      "plan": "catch",
+      "clientName": "Bella Salon",
+      "legalName": "Bella Salon Inc",
+      "forwardTo": "+15550100011",
+      "ownerMobile": "+15550100012",
+      "areaCode": "555",
+      "twilio_number": "",
+      "messagingServiceSid": "",
+      "message": "Bella Salon: Sorry we missed your call. We'll call you back shortly. Msg & data rates may apply. Reply STOP to opt out, HELP for help.",
+      "sheetId": ""
+    }
+  ]
+}
